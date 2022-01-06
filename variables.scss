@@ -1,0 +1,17 @@
+$color : red;
+$backgrouncolor : cyan;
+h1{
+
+    color: $color;
+    font-size:50px;
+    background-color: $backgrouncolor;
+}
+
+p{
+    font-family: cursive;
+    font-weight: 500;
+    color: $color;
+    border-left-color: $backgrouncolor;
+    border-left-width: 5px;
+    border-left-style: solid;
+}

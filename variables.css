@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+  font-size: 50px;
+  background-color: cyan;
+}
+
+p {
+  font-family: cursive;
+  font-weight: 500;
+  color: red;
+  border-left-color: cyan;
+  border-left-width: 5px;
+  border-left-style: solid;
+}
+
+/*# sourceMappingURL=variables.css.map */
